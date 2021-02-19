@@ -14,5 +14,5 @@ Python merupakan bahasa pemrograman multipurpose language yang relatif mudah dig
 
 
 # Refference
-[1] https://www.python.org/about/apps/
-[2]
+- [1] https://www.python.org/about/apps/
+- [2]
